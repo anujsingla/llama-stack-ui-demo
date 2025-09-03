@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Backend API repo](https://github.com/anujsingla/llama-stack-server-apis)
 
 Currently, two official plugins are available:
 
